@@ -1,0 +1,63 @@
+* {
+    font-family: "Inter", sans-serif;
+    text-align: center;
+}
+
+#top-part, #bot-part {
+    margin: 0 auto;
+    width: 550px
+}
+
+#top-part {
+    padding-bottom: 10px;
+    background: #6943FF;
+    color: white;
+}
+
+#bot-part {
+    background: #F4F4F4;
+    padding: 20px 0;
+}
+
+.box {
+    width: 500px;
+    height: 108px;
+    margin: 10px auto;
+    padding: 10px 0;
+    background: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2{
+ padding: 20px 0 0 0;
+ font-size: 28px;
+ font-weight: bolder;
+}
+
+input{
+    width: 117px;
+    height: 83px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background: #6943FF;
+    color: white;
+    font-weight: bolder;
+    font-size: 58px;
+}
+
+button {
+    display: block;
+    width: 117px;
+    height: 42px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#length-calc, #volume-calc, #mass-calc {
+    padding-top: 5px;
+    font-size: 14px;
+    font-weight: 400;
+}
