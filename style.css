@@ -64,7 +64,7 @@ main {
     height: 95px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     gap: 1em;
     margin: .1em auto;
