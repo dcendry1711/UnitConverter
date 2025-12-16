@@ -19,7 +19,7 @@ header {
     padding: 2em 0 ;
     display: flex;
     flex-direction: column;
-    gap: 2em;
+    gap: 1em;
     align-items: center;
     text-align: center;
 }
@@ -61,7 +61,7 @@ main {
 
 .unit-section {
     width: 90%;
-    height: 95px;
+    height: 90px;
     display: flex;
     flex-direction: column;
     justify-content: start;
