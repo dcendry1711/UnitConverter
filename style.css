@@ -75,3 +75,26 @@ main {
     font-weight: 400;
     color: #353535;
 }
+
+@media (min-width: 768px){
+    body {
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+        margin: 1em auto;
+    }
+    button {
+        padding: 1em 2em;
+    }
+    button:hover{
+        background: black;
+        color: #FFFF;
+        font-weight: 800;
+    }
+    .unit-header {
+        font-size: 1.1rem;
+    }
+    .unit-paragraph {
+        font-size: .9rem;
+    }
+}
